@@ -1,5 +1,5 @@
 # Machine-Learning-Based-Chatbot
-A chatbot using MLPClassifier to answer questions about Black hole.
+A chatbot using MLPClassifier, KNeighborsClassifier and NLP Techniques like Cosine Similarity to answer questions about Black hole.
 
 to execute:
 
